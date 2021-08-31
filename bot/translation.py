@@ -4,18 +4,11 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>🙋‍♂️Hey {}!!</b>
+    START_TEXT = """<b>Hii {}!!</b>
 
 <b>Am Just A Pro Auto Filter Bot....😉</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
 
-<b>Watch the video below to build an Pro Autofilter bot like me...</b>
-
-<b>Subscribe to the update channel to learn about my updates and activity...</b>
-
-<b>Press /help to know about available commands🤪</b>"""    
-    
     HELP_TEXT = """
 <b>😉How To Use Me!😉?</b>
 
@@ -25,8 +18,8 @@ class Translation(object):
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
-
-    -> <code>/add chat_id</code>
+    
+<code>/add chat_id</code>
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
      <code>/add @Username</code>
      
@@ -61,3 +54,12 @@ class Translation(object):
 
 <b>➥ 📖Source Code</b> : <b><a href="https://github.com/MRK-YT/Pro-Auto-Filter-Bot">💥Click Me</a></b>
 """
+
+
+
+
+
+    
+    
+
+    ->
